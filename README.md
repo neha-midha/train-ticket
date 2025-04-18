@@ -21,7 +21,7 @@ A Spring Boot-based train ticket purchasing system with in-memory storage, featu
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/train-ticket-booking.git
+git clone https://github.com/neha-midha/train-ticket.git
 cd train-ticket-booking
 ```
 
